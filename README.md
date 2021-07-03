@@ -25,5 +25,5 @@
     Express is listening on localhost: 3000.
 請至 [http://localhost:3000](http://localhost:3000) 開始使用！
 
-## Developer
+## Developer - 開發者
 [Run Chen](https://github.com/RunChenn)
