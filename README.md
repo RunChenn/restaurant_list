@@ -13,15 +13,15 @@
 [Express-Handlebars](https://www.npmjs.com/package/express-handlebars) - 模板引擎
 
 ## Installing - 安裝流程
-1. 打開你的 terminal，Clone 此專案至本機電腦
+- 1. 打開你的 terminal，Clone 此專案至本機電腦
     git clone https://github.com/Runchenn/restaurant_list.git;
-2. 進入至專案資料夾
+- 2. 進入至專案資料夾
     cd restaurant_list
-3. 安裝 npm 套件
+- 3. 安裝 npm 套件
     npm install
-4. 執行程式
+- 4. 執行程式
     npm run dev
-5. 當 terminal 出現以下字樣，執行成功
+- 5. 當 terminal 出現以下字樣，執行成功
     Express is listening on localhost: 3000.
 請至 [http://localhost:3000](http://localhost:3000) 開始使用！
 
